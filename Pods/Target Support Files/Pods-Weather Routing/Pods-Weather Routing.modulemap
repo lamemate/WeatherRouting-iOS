@@ -1,0 +1,6 @@
+framework module Pods_Weather_Routing {
+  umbrella header "Pods-Weather Routing-umbrella.h"
+
+  export *
+  module * { export * }
+}
